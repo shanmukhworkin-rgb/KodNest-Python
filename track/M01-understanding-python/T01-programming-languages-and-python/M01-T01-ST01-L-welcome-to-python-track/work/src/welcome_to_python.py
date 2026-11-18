@@ -1,1 +1,1 @@
-#write you code here
+print("Completed welcome to python exercise")
