@@ -26,40 +26,26 @@ Python is:
 
 In this track, I will learn:
 
-# Programming vs Programming Language
+Question 1: What is programming?
+Programming is the overall process of analyzing a problem, planning the rules and step-by-step logic to solve it, and testing the solution so a computer can execute it.
 
-## What Is Programming?
+Question 2: What is a programming language?
+A programming language is a structured set of words, symbols, and rules used to translate human problem-solving logic into instructions that a computer can read and run.
 
-Write the answer in your own words.
+Question 3: Is Python the same as programming?
+No. Programming is the thinking and problem-solving process, while Python is just one specific language used to write down that solution.
 
-## What Is a Programming Language?
+Question 4: What is syntax?
+Syntax refers to the strict grammar, spelling, punctuation, and formatting rules of a programming language that must be followed for the computer to understand the code.
 
-Write the answer in your own words.
+Question 5: Can the same algorithm be written in Python and Java?
+Yes. Because an algorithm is just the underlying step-by-step logic, the exact same solution can be written in Python, Java, or any other programming language.
 
-## What Is Python?
+Question 6: Which comes first: understanding the problem or writing Python syntax?
+Understanding the problem comes first. You have to know the inputs, rules, and desired outcome before you can write any Python code.
 
-Write the answer in your own words.
+Question 7: What remains the same when one solution is written in different programming languages?
+The core problem, inputs, rules, sequence of steps (logic), and expected output all stay the same; only the syntax and keywords change.
 
-## What Is Syntax?
-
-Write the answer in your own words.
-
-## Programming and Python
-
-Explain the difference between programming and Python.
-
-## What Remained the Same?
-
-Explain what remained the same between the pseudocode and Python program.
-
-## What Changed?
-
-Explain what changed when the pseudocode was converted into Python.
-
-## My Final Understanding
-
-Programming helps me:
-
-Python helps me:
-
-Syntax tells me:
+Question 8: Can someone know Python syntax but still struggle to solve problems? Explain why.
+Yes. Knowing syntax only means knowing how to type valid Python commands. Without strong problem-solving and logical thinking skills, a person won't know which steps or rules to put together to solve a brand-new problem.
